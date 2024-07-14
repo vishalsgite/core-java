@@ -1,6 +1,5 @@
-# core-java
 <div class="repo-description">
-    <h1>Java Programming Overview</h1>
+    <h1>Core-Java Programming Overview</h1>
     <p>Explore the fundamentals of Java programming, including:</p>
     <ul>
         <li><strong>Introduction to Java</strong>: A high-level, object-oriented language.</li>
