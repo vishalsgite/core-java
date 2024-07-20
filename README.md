@@ -4,6 +4,7 @@
     <ul>
         <li><strong>Introduction to Java</strong>: A high-level, object-oriented language.</li>
         <li><strong>Control Flow Statements</strong>: Mastering conditional and looping constructs.</li>
+         <li><strong>Array , Functions and String in Java.</li>
         <li><strong>Object-Oriented Programming (OOP) Concepts</strong>: Understanding classes, objects, inheritance, and polymorphism.</li>
         <li><strong>Exception Handling</strong>: Techniques to handle errors gracefully.</li>
         <li><strong>File Handling</strong>: Working with file I/O in Java.</li>
